@@ -1,0 +1,5 @@
+{
+  "name": "SEI - Sistema Escolar Integrado",
+  "description": "Um sistema completo de gestão escolar para administração de turmas, disciplinas, protagonistas (alunos) e lançamento de notas com insights gerados por IA.",
+  "requestFramePermissions": []
+}
